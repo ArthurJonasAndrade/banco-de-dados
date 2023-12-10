@@ -1,3 +1,5 @@
+// npm install mysql2 sequelize
+
 const { Sequelize, DataTypes } = require('sequelize');
 
 // Configuração da conexão com o banco de dados
